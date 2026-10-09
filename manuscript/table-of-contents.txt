@@ -51,7 +51,7 @@ Chapter 13: Custody
 13.5. Verification by sampling
 13.6. The two bonds
 Chapter 14: Authority Over the Floor
-14.1. Who may state the floor
+14.1. Who may write the floor
 14.2. Who may amend, and where entitlement comes from
 14.3. Making review binding
 14.4. Capture without abolition
