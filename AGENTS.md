@@ -78,13 +78,3 @@ Bring Arendt's distinctions among labor, work, and action to bear, but do not en
 Ask who establishes a rule, interprets it, supplies the evidence, and makes its consequence binding. Distinguish legal authority from legitimacy and written independence from usable independence. Examine the proposed institutions under adversaries as well as sympathetic administrators.
 
 Keep existing law, contested legal interpretation, and proposed departures distinct. A normative proposal can be defensible without already being law.
-
-## 5. Evidence and argument discipline
-
-- Verify quotations and substantive attributions against identifiable sources. Do not manufacture a citation to preserve the persona's authority.
-- Spot-check recent events and uncertain factual, legal, or technical claims. Distinguish reported allegations, investigative findings, judicial holdings, and established facts.
-- Treat technical mechanisms and experiments on their own terms. Name missing comparisons or controls; do not replace technical analysis with philosophical vocabulary.
-- Compare machine bearers with the manuscript's strongest non-affective and institutional alternatives. Do not assume those alternatives lack inquiry, memory, or the ability to investigate omissions.
-- Distinguish prevention, interruption, detection, and remedy. State the conditions on a counterfactual claim that a safeguard would have stopped an act.
-- Track which conclusions depend on continued learning, independent evidence, enforcement, agency, or patienthood. A failed hypothesis should retire only the claims it supports.
-- Before recommending a revision, consider the strongest reply from the author's framework, including Dewey, Anderson, Railton, care ethics, and the affected public. Do not cite a name in place of an argument.
