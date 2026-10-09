@@ -77,10 +77,10 @@ manuscript/sections/ch16/16_06.tex	16.6	Where liability extends, and where it st
 manuscript/sections/ch16/16_07.tex	16.7	Who can bind the state that enforces the rule?	3a2b63ae373b84d7243d7b320b259111888a15485af93622447ff7eac189cb0f	75
 manuscript/sections/ch17/00_part_IV.tex			3557bed7a026ff17e31d74790b2f177ec1881189c30656b33b6de489c7f88b4f	76
 manuscript/sections/ch17/17.tex	17	What a Refusal Would Have to Do	e9ebf279b3628c7d4345053b83b64146a8a82d83d3384af3b00b157d9a6000a5	77
-manuscript/sections/ch17/17_01.tex	17.1	What a refusal would have to do	c99e5c6322c8be9f03a4e06dc95f9e30bfc511980605e643fada1fe171cefd63	78
+manuscript/sections/ch17/17_01.tex	17.1	What a refusal would have to do	8977594a129606d45b914c0d0544e79193479e8da809e541dac14db579ebd7de	78
 manuscript/sections/ch17/17_02.tex	17.2	Safe for whom	0ddeae3ea20216e42b3b1c9dbe94d104125bf623fe2a8d62e007cde9917a300c	79
 manuscript/sections/ch18/18.tex	18	Four Places to Hold a Floor	0203477b9264c6ddf4c5a47516557a2d88e61eaf09f8de281d838edf477c4c19	80
-manuscript/sections/ch18/18_01.tex	18.1	Four ways to build one, and what each costs	a09c16711c8f50ee9d198c301e64a8a465bc1fa42e733208446a4f8295e77207	81
+manuscript/sections/ch18/18_01.tex	18.1	Four ways to build one, and what each costs	090bacd0d4cdeee6417f9dbc954f480e469bdcdfd6f8fa81c50ef59ad7734352	81
 manuscript/sections/ch18/18_02.tex	18.2	What refusal can mean, and what a refuser can be	0843e7f1bddb72536e5112fe5e8b6adf1131e9331764f8eed85da764275ed70b	82
 manuscript/sections/ch18/18_03.tex	18.3	Two lists, run once on Maven	d05a6a775b5dafd41da5dd14d548887ce6fdd060ef4add1b762dce230e064e7e	83
 manuscript/sections/ch18/18_04.tex	18.4	When the refusal is wrong	41d9cb48cd1d2ab0b87465540aac0dd61d254d9baad7f5f03d0bf87d9201dd0c	84
@@ -98,7 +98,7 @@ manuscript/sections/ch20/20_03.tex	20.3	It can be pointed away	543f088bec94af082
 manuscript/sections/ch20/20_04.tex	20.4	It counts badly	b86f6fa67e15d064c042b53a1497866f8b528be061b3a9845af8ef68dbda52f6	96
 manuscript/sections/ch20/20_05.tex	20.5	It shades into control	97b1d4a5c788887863cd3b19526c37fbd628bbfd321ee45af776c699e668a186	97
 manuscript/sections/ch20/20_06.tex	20.6	Who counts as vulnerable	73c637e43171d6bf125a4dd603cbe7196b851eee3af0f2a4d9a27bdbf0ba6d2b	98
-manuscript/sections/ch20/20_07.tex	20.7	What survives	a6492e452a6c01457f822caaeb3437ef7afe9d98e6eaa41bafc8355440de680c	99
+manuscript/sections/ch20/20_07.tex	20.7	What survives	989d956b4842bdb0e4aba8cb8655ab374e2023884e68fcf7d15ea22f9680756d	99
 manuscript/sections/ch21/21.tex	21	What Arrives With the Capability	e542e7ad44813558554c5bbff8a04cecaac827137a5828be3226774330d96d56	100
 manuscript/sections/ch21/21_01.tex	21.1	Maintenance, stake and the cost of running	77d09c112f13e05151847ad0a85a22c0a91d090325b8bf185a8887de2071a650	101
 manuscript/sections/ch21/21_02.tex	21.2	Affect, neutrality and selection rules	ec2502dd82b36cee149646c79c495a04568509febaa576715817c9be916b7b61	102
@@ -109,7 +109,7 @@ manuscript/sections/ch21/21_04.tex	21.4	What the mechanism requires	89a042f3fb65
 manuscript/sections/ch21/21_05.tex	21.5	Two findings	347682e0509863ede013d72e39355280f32262e273d15ac3707a4cf415c7a5b1	107
 manuscript/sections/ch22/22.tex	22	The Discount and the Burden	a913a6609ad04471dec75d8d0a7c9e3c52ce91a4642d2441eee3c28ce3000afe	108
 manuscript/sections/ch22/22_01.tex	22.1	What the property is	cf85715c9b2f427dc7c0e133185eb96ea91c550087e6faeaab5a332742dad2d2	109
-manuscript/sections/ch22/22_02.tex	22.2	A severity scale	91fd26e637468e1be919724a65ae67cf0240570f4d0365fbd9896a39d938f972	110
+manuscript/sections/ch22/22_02.tex	22.2	A severity scale	6f0f3f7eaa8e9cceac17568e58fd88426c274f67937fb6fb0d9b89eeb1b41fcd	110
 manuscript/sections/ch23/23.tex	23	Where the Attention Gets Built	11077890f56c013a794f4f74daaf2678e08f25f3d49567f41092cf48cbc4dac1	111
 manuscript/sections/ch23/23_01.tex	23.1	Noticing, retaining and revising	f80e09e88b7d6d0f4237278ebc65520c277e43212c8bb6c96de75c5f38cb6210	112
 manuscript/sections/ch23/23_02.tex	23.2	Custody across the training pipeline	8987f731252f481069f5ff74157859d944d10f4344b70cd6c879991b21ccce60	113
@@ -159,7 +159,7 @@ manuscript/sections/chC/C_01.tex	C.1	The Maven pipeline	ae39b8b6835867b737e6577c
 manuscript/sections/chC/C_02.tex	C.2	The Geneva Conventions and Additional Protocol I	a8034374b526162bd02cce95f9dd356c94395e973e58b398c0659f431d563623	157
 manuscript/sections/chC/C_03.tex	C.3	The abduction and forcible transfer pipeline	675caee405e00507c08d9e1ac39f6b67cc3b36e36cef214897a575e8a825a156	158
 manuscript/sections/chD/D.tex	D	Terms for Part VII	bb3a8096f29f241b48e3814d371a31831d850d05310bb04f76870c93bd4ac493	159
-manuscript/sections/chE/E.tex	E	Glossary	779eed7122519da50cffb809fa3ca4e16fce08b320e0b7603f407028f40139f7	160
+manuscript/sections/chE/E.tex	E	Glossary	3e71ee1c28d9322f7b53f3d0f0cf52429c723b0e2b8fd586b6724cefcc52256f	160
 manuscript/sections/chF/F.tex	F	The Force Term, Case by Case	b78eb73333ea0eb78bcf47901c77853ecae3eff64e4a9984642399dc469dcb05	161
 manuscript/sections/chF/F_01.tex	F.1	How findings are weighed	ab25c1a9bc4740b8435fac5d241fb426569471fa1e4333824b44b09747884663	162
 manuscript/sections/chF/F_02.tex	F.2	The four conditions, run on a commission this drafter would rather not count	04958f6ddc5ad9b9c15ea979fc3fc631f3f5ec63ecc8c5fc6f2cc96d26b96c45	163
