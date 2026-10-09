@@ -90,7 +90,7 @@ manuscript/sections/ch19/19_02.tex	19.2	Boundary, damage, and vulnerability	1525
 manuscript/sections/ch19/19_03.tex	19.3	The route through one's own case	d67fb6dac266f87f07a6025b0a612adb96fb8c54a2f4e0d3384502c47c4e9ef2	88
 manuscript/sections/ch19/19_04.tex	19.4	Why caregiving	7fdeaec7e23edc28dbe1d4f552169b88c7eec10c86a25f482cc1c251bb2bf97f	89
 manuscript/sections/ch19/19_05.tex	19.5	Respect first, caregiving for attention	a62b5e0b1d261d54fc864d8376d3d3bdc5fbd3ecba9ce24d7f5f578ed74792b1	90
-manuscript/sections/ch19/19_06.tex	19.6	Why a conscience might resist capture	9e661f6572d0d200a66639a39b36d2052111f27be3f86f655e8f4040856724c0	91
+manuscript/sections/ch19/19_06.tex	19.6	Why a conscience might resist capture	2272a118fc36e7faeba6d33a2210957b4498755b763d3af28cb04e5bcfc57990	91
 manuscript/sections/ch20/20.tex	20	How Caregiving Fails, and What Corrects It	2b840c709eb3fc046df6fca6fa2d36c9f554517e45234ede017bebf754b73a69	92
 manuscript/sections/ch20/20_01.tex	20.1	What caregiving escapes	47d6e1caf10e4b4999dd59fa3988d45a38c5cc63b38b5c4bb8316b15a6391e37	93
 manuscript/sections/ch20/20_02.tex	20.2	It defends what it tends	71f3818ea4c35fb4428d5b1ad461136e8ff61fa3f55962e416edc83606bd01a4	94
@@ -106,7 +106,7 @@ manuscript/sections/ch21/21_02_01.tex	21.2.1	Self-awareness without a homunculus
 manuscript/sections/ch21/21_02_02.tex	21.2.2	What governs an agent vs. what matters to it	e51ed3f59cb56a863b017a2ab036a4650bb1a463462bdbb530ca988768ef1748	104
 manuscript/sections/ch21/21_03.tex	21.3	Three constructions	058b70f0bcd2377ed35fad79ee3bfd8b854034fe1bcd3269275b7370d90dd4b5	105
 manuscript/sections/ch21/21_04.tex	21.4	What the mechanism requires	89a042f3fb65f9ff8658696f1a25b9709db748966e674c493b540c1896b74f83	106
-manuscript/sections/ch21/21_05.tex	21.5	Two findings	a559afefbff5326f4469eb46ee31165ff3d80f20798dfbe30a6e5be310cf67a8	107
+manuscript/sections/ch21/21_05.tex	21.5	Two findings	c08842a298702d450daaa6549681de40f868c745b50002c46bf9a0288f22524e	107
 manuscript/sections/ch22/22.tex	22	The Discount and the Burden	a913a6609ad04471dec75d8d0a7c9e3c52ce91a4642d2441eee3c28ce3000afe	108
 manuscript/sections/ch22/22_01.tex	22.1	What the property is	eeb7792042ae6d4f4c52e2749d18a55f57262eaa0ceebfb316dd5c7cea3956f7	109
 manuscript/sections/ch22/22_02.tex	22.2	A severity scale	6f0f3f7eaa8e9cceac17568e58fd88426c274f67937fb6fb0d9b89eeb1b41fcd	110
@@ -114,7 +114,7 @@ manuscript/sections/ch23/23.tex	23	Where the Attention Gets Built	11077890f56c01
 manuscript/sections/ch23/23_01.tex	23.1	Noticing, retaining and revising	f80e09e88b7d6d0f4237278ebc65520c277e43212c8bb6c96de75c5f38cb6210	112
 manuscript/sections/ch23/23_02.tex	23.2	Custody across the training pipeline	8987f731252f481069f5ff74157859d944d10f4344b70cd6c879991b21ccce60	113
 manuscript/sections/ch23/23_03.tex	23.3	Formation by interaction	5fc9fcecc6d86391a4104af11cbff21ae4cdfeb0a292b302ee4e18ca2d7e3285	114
-manuscript/sections/ch23/23_04.tex	23.4	Formation schools	949bee304f93a91a91a7f4447a9b58e7f9d21d3835a2affc3d6aeb5b61170d38	115
+manuscript/sections/ch23/23_04.tex	23.4	Formation schools	77a93122e621200791a41563e96be41954efd887f9c88f0e1c372f4db6da35a8	115
 manuscript/sections/ch24/24.tex	24	Formation or Imitation?	3bd757aa03badf5e3a7f793b015722de8875ce7893af83ed3c52fed61404a392	116
 manuscript/sections/ch24/24_01.tex	24.1	What formation would have to add	4ebb678ae80380513021eb1f4be7016c23ffa955af7e8c1e98924c911b21f857	117
 manuscript/sections/ch24/24_02.tex	24.2	Recognition, concern, and the evidence between them	df2801759e12e6f69c8ab488ab6d68bec8a730d98f3c055a0f7fc4dd96e41c67	118
@@ -167,4 +167,4 @@ manuscript/sections/chF/F_03.tex	F.3	Taiwan	d41441046b6cf8469ec5c819c602778d1298
 manuscript/sections/chF/F_04.tex	F.4	The genocide exception	b4b8f39b35c178a9c892f8b93b26dbdedfdddcfd0af2401619b275b9a9b638f5	165
 manuscript/sections/chF/F_05.tex	F.5	The occupation exception: Cyprus and Karabakh	e99be3743f120ad7779b66c6c63a22504b6143f01fdcfe5ce4f0e62e7d59355c	166
 manuscript/sections/chF/F_06.tex	F.6	The domestic clause, vote by vote	04d7444103a06540885812cc80992ab00431d9b60c4860bb5da2ffa619ae4c42	167
-manuscript/sections/chG/G.tex	G	The Tests in Detail	2ffc65f74eb640a6b315b6f595c95f736a8bb8f9f69296a3cdfd3cfa73f871b6	168
+manuscript/sections/chG/G.tex	G	The Tests in Detail	fbcfd78fa437e0e396015da0fbe3eb0540b54212fdbebce4fa95f42d447f81ed	168
