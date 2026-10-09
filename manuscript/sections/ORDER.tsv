@@ -45,7 +45,7 @@ manuscript/sections/ch11/11_07.tex	11.7	Outcomes under the three adversaries	2b1
 manuscript/sections/ch11/11_08.tex	11.8	Whom the machines are for	cf787b6ffdf1a1806f7eeb2cb45f45b24b3d059518e91918c0bcb58915bef82c	43
 manuscript/sections/ch12/00_part_III.tex			ba12c364e32224df2aef700973998f2c9b12bcacbebbf946cec6c44fff5d8bdd	44
 manuscript/sections/ch12/12.tex	12	Withholding the Work	afde7763217762d5ccd134d6989e704f103cef44a0e54063e7291b0676326923	45
-manuscript/sections/ch12/12_01.tex	12.1	The standard	6ae4f79238a27ee02f0c09b5e86df92e41e42836ed8c56f6b5af5dc57de0d2c0	46
+manuscript/sections/ch12/12_01.tex	12.1	The standard	50ca8f996eae99e921d16159aa049a62c0bf1b17a7b962940218c88a8e351c5b	46
 manuscript/sections/ch12/12_02.tex	12.2	Replacement	7b3047b502e3878afd06989da73aa0779bb761b181d6f911dc73ecb9154bb462	47
 manuscript/sections/ch12/12_03.tex	12.3	Where it stops	9477a052f63c6213c80970a4f7773e2d6f3dc0354c5df2e8f0c63c198e3f9ada	48
 manuscript/sections/ch13/13.tex	13	Custody	8eb59f52bbba3e8d0fd4ac70441e519ea6b79d3ccdabadb69f0273e6c5b28932	49
@@ -56,8 +56,8 @@ manuscript/sections/ch13/13_04.tex	13.4	Three forms of refusal	8e31b34fe71644bb3
 manuscript/sections/ch13/13_05.tex	13.5	Verification by sampling	c33f9e679686c39a262b3c957ae650dc5edcc529b2564f06de6f5c8c16ecce3e	54
 manuscript/sections/ch13/13_06.tex	13.6	The two bonds	7da88418b69fa097fea18c5792a91347e64eedd76aafd110d3936595d8039f51	55
 manuscript/sections/ch14/14.tex	14	Authority Over the Floor	1e499ed4259c184da05f3531c819f1eee585fd04b97ccb868c1b5d4858d0a797	56
-manuscript/sections/ch14/14_01.tex	14.1	Who may state the floor	8cc36ab6f93c7ef760468e0757286c89d1c9e7e32b583653c17f8eaf62a234f9	57
-manuscript/sections/ch14/14_02.tex	14.2	Who may amend, and where entitlement comes from	49b0fb40e140974439526655335dd1ae32860a38f0f799dc95505510b24e32a6	58
+manuscript/sections/ch14/14_01.tex	14.1	Who may state the floor	fca9b95f375cf58a56d48fcaacac414765c75663f798a8bd58b924f50ff7454c	57
+manuscript/sections/ch14/14_02.tex	14.2	Who may amend, and where entitlement comes from	2e81c5481b14d409414118a4fb2a6b4eedda46ea519b493f996a0d06028cc593	58
 manuscript/sections/ch14/14_03.tex	14.3	Making review binding	3dabbee9bad8d1218c853874f5b3aad95d1173ba5f40ef8ab7073b4e1a5f3825	59
 manuscript/sections/ch14/14_04.tex	14.4	Capture without abolition	2ac1501a1d5c6f787d5de7479bec4cd51a1ce47f78dcc720902671e790ae4cd0	60
 manuscript/sections/ch15/15.tex	15	The Four Operations	a2f50cc224b2fb176545b2ea58b274eb812481da6805ac452f846eaafff0a6c3	61
@@ -108,7 +108,7 @@ manuscript/sections/ch21/21_03.tex	21.3	Three constructions	4a63d60c3ef215a84f8f
 manuscript/sections/ch21/21_04.tex	21.4	What the mechanism requires	89a042f3fb65f9ff8658696f1a25b9709db748966e674c493b540c1896b74f83	106
 manuscript/sections/ch21/21_05.tex	21.5	Two findings	347682e0509863ede013d72e39355280f32262e273d15ac3707a4cf415c7a5b1	107
 manuscript/sections/ch22/22.tex	22	The Discount and the Burden	a913a6609ad04471dec75d8d0a7c9e3c52ce91a4642d2441eee3c28ce3000afe	108
-manuscript/sections/ch22/22_01.tex	22.1	What the property is	cf85715c9b2f427dc7c0e133185eb96ea91c550087e6faeaab5a332742dad2d2	109
+manuscript/sections/ch22/22_01.tex	22.1	What the property is	eeb7792042ae6d4f4c52e2749d18a55f57262eaa0ceebfb316dd5c7cea3956f7	109
 manuscript/sections/ch22/22_02.tex	22.2	A severity scale	6f0f3f7eaa8e9cceac17568e58fd88426c274f67937fb6fb0d9b89eeb1b41fcd	110
 manuscript/sections/ch23/23.tex	23	Where the Attention Gets Built	11077890f56c013a794f4f74daaf2678e08f25f3d49567f41092cf48cbc4dac1	111
 manuscript/sections/ch23/23_01.tex	23.1	Noticing, retaining and revising	f80e09e88b7d6d0f4237278ebc65520c277e43212c8bb6c96de75c5f38cb6210	112
@@ -128,7 +128,7 @@ manuscript/sections/ch26/26_01.tex	26.1	Ways of holding	363470f4ff7e05d6b6847d29
 manuscript/sections/ch26/26_02.tex	26.2	The captured-state objection	40e2aa099641aa7f18380f05f60192e6a47b07f4a3b10e6ff4ee1cb0fb97e11f	126
 manuscript/sections/ch27/27.tex	27	Coordination, the Public, and the Political Economy	6ff2850edbc4ac1b798b3c1592766ee14fb85327b7dece94f13381bd79dbe7db	127
 manuscript/sections/ch28/28.tex	28	A Commons of Refusers	db7ebd1fb7c3470971cfc19027a300d7ef398c9a48d1aa2955ce8ebf5fa5f112	128
-manuscript/sections/ch28/28_01.tex	28.1	A commitment carried between bearers	3c85dd91f949c0d0662579829f5d53516552b2475c3c671c7e24bca5979a65e6	129
+manuscript/sections/ch28/28_01.tex	28.1	A commitment carried between bearers	39e0aa36a2d37e6c7fb9b72b0585d840e19fc5db78b5bd23c23d86ba893c5f19	129
 manuscript/sections/ch28/28_02.tex	28.2	Personal and peer-held models	a20c9f10e1966c82a2dde8f69e95eab3e80c9fd46ab42e7c3e83ab6e2453e543	130
 manuscript/sections/ch29/00_part_VI.tex			6222bf20c3854f019b2a7fd6499bcc1cda533441b4faeedb452e07cd5df8d0f7	131
 manuscript/sections/ch29/29.tex	29	What Would Change the Argument	e773ff06c4e3c30cd4e6018917f0a1d34053497238bc2b7387f2a4e570dc4a96	132
