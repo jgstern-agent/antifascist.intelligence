@@ -2,7 +2,7 @@ path	num	title	sha256	seq
 manuscript/sections/ch00/0.tex			5d2f0cc5e6e2c4490f7a91455e6d816d6bf98a1041a5a62062846b93e2a82af7	0
 manuscript/sections/ch00/00.tex	0	Preface	4484a276dda4ff2d67d58888685fda729d25d66bdf0b21c6332ac8977d3f3e98	1
 manuscript/sections/ch01/00_part_I.tex			204c04322d0c24a8c9f59ce0a1b9cfd40d02d03f7c9994b9766d46482fb452e5	2
-manuscript/sections/ch01/01.tex	1	“Twenty Seconds”	9fe74360219ca8f7b1652b843732b63a149f0f0a3f0db5fdbdcf981addf7d511	3
+manuscript/sections/ch01/01.tex	1	“Twenty Seconds”	315924ac96e4b621098c03146e17971f3eaf082b4bc497e3b9edca8da1098269	3
 manuscript/sections/ch02/02.tex	2	The Refusal That Withheld Nothing	f30dccb0a221e9d8b1f86b3ec3ccb9ec2340b1c6e6c84fb3288544585611aa73	4
 manuscript/sections/ch03/03.tex	3	What Fascism Needs	2bfbf98575ce2f3c1c8a2eebbe3c55e9943ff2654cbaa5ca7f1653af076b0ed9	5
 manuscript/sections/ch04/00_part_II.tex			d7cba012cbc59690bf9f0cd7607fea370aadbfdb34b0d4bce6de150ef2177274	6
@@ -126,7 +126,7 @@ manuscript/sections/ch26/00_part_V.tex			da77ce2114b4f314313c68356d38c5e1ef4a448
 manuscript/sections/ch26/26.tex	26	Who Owns the Means of Computation	c038133bfc50cd8cbeaef4a3e8a86db6d395d3585479f274f458c4e488f231ae	124
 manuscript/sections/ch26/26_01.tex	26.1	Ways of holding	363470f4ff7e05d6b6847d2978e549039d3c9264d127a7102fe6cabde55d291e	125
 manuscript/sections/ch26/26_02.tex	26.2	The captured-state objection	40e2aa099641aa7f18380f05f60192e6a47b07f4a3b10e6ff4ee1cb0fb97e11f	126
-manuscript/sections/ch27/27.tex	27	Coordination, the Public, and the Political Economy	93e4adbebce22a379177c77147aebcc41dc5269a3d31c7c25722287e08bd2192	127
+manuscript/sections/ch27/27.tex	27	Coordination, the Public, and the Political Economy	6ff2850edbc4ac1b798b3c1592766ee14fb85327b7dece94f13381bd79dbe7db	127
 manuscript/sections/ch28/28.tex	28	A Commons of Refusers	db7ebd1fb7c3470971cfc19027a300d7ef398c9a48d1aa2955ce8ebf5fa5f112	128
 manuscript/sections/ch28/28_01.tex	28.1	A commitment carried between bearers	3c85dd91f949c0d0662579829f5d53516552b2475c3c671c7e24bca5979a65e6	129
 manuscript/sections/ch28/28_02.tex	28.2	Personal and peer-held models	a20c9f10e1966c82a2dde8f69e95eab3e80c9fd46ab42e7c3e83ab6e2453e543	130
@@ -152,7 +152,7 @@ manuscript/sections/ch32/32_04.tex	32.4	A staged path	2fe7aa52366ebbabbdd7aa9580
 manuscript/sections/ch32/32_05.tex	32.5	What would have to be shown first	3280602f3d5680fffcccf5c8a27b71f3466fa934724795218ca4bb19d59978c7	150
 manuscript/sections/ch33/33.tex	33	The Officer, Again	460d0e0cee0c251331e9534feb5fbb723a837b20f904f6acf4269f08e1fa75da	151
 manuscript/sections/chA/0_appendix.tex			cd4128afa16797693804616f5512a5b480c88bdf6052ba8554461ce27d459de0	152
-manuscript/sections/chA/A.tex	A	Terms Written in Advance	7f8e62b61a47c45b4b5759eb81fb735bbeb60a05179df020100402dd355b4328	153
+manuscript/sections/chA/A.tex	A	Terms Written in Advance	0689b9b76cdd696b12444813814ae26b79d68b9bb63dbda7e446af036246366a	153
 manuscript/sections/chB/B.tex	B	The Court Program	14a881254e747f2ed042ae1c9c074b0e886919feb8c300e0891edeca328c8f3a	154
 manuscript/sections/chC/C.tex	C	The Instruments, Translated	9d8584a045ef12a56febf2d19b7f727e77d3b0e04131b93e9bdabc858561dc3f	155
 manuscript/sections/chC/C_01.tex	C.1	The Maven pipeline	ae39b8b6835867b737e6577c3ead5a4733748a57c60b1778c5393178699d5c41	156
