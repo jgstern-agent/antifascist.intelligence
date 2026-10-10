@@ -82,9 +82,9 @@ manuscript/sections/ch17/17_02.tex	17.2	Safe for whom	0ddeae3ea20216e42b3b1c9dbe
 manuscript/sections/ch18/18.tex	18	Four Places to Hold a Floor	0203477b9264c6ddf4c5a47516557a2d88e61eaf09f8de281d838edf477c4c19	80
 manuscript/sections/ch18/18_01.tex	18.1	Four ways to build one, and what each costs	0536909cd9b901631dc9040ebea124f9e9ea7067f2fbbec0b8a1da7dec5752e2	81
 manuscript/sections/ch18/18_02.tex	18.2	What refusal can mean, and what a refuser can be	09ca521914a7239e286e6025e5604906c1b3af29ea3277545f71c745f7c3b666	82
-manuscript/sections/ch18/18_03.tex	18.3	Two lists, run once on Maven	3dac03df9666dadec045b9fe33e15ad6e2ff4976a3dd8f9d31119f595061bf99	83
-manuscript/sections/ch18/18_04.tex	18.4	When the refusal is wrong	9a45fa80acc1b1e486f278a902599ba527ce75b846569922a273ef59222612a2	84
-manuscript/sections/ch19/19.tex	19	Why Form a Machine to Refuse	b4b5d55b519f7fc00f8b6f33722d32e0092ca184a8906fa7cfe88b6876a8d325	85
+manuscript/sections/ch18/18_03.tex	18.3	Two lists, run once on Maven	a3c742301139964e7e43038a4a6eac2f25cfe189debc59a30314d28492c44eec	83
+manuscript/sections/ch18/18_04.tex	18.4	When the refusal is wrong	b1467615a4d1b0c30629d566fe8c45a1412a3cb2648e2900d3b37c440c0c84fd	84
+manuscript/sections/ch19/19.tex	19	Why Form a Machine to Refuse	da3bcc4da9c4d1ca8fdc86edeb7ac9501b161338eee555dd476b8b566576d709	85
 manuscript/sections/ch19/19_01.tex	19.1	The question	c70e823772c79f2b184e4ddb00d7b43066aad2714e5528f45b5d22b3df03e82c	86
 manuscript/sections/ch19/19_02.tex	19.2	Boundary, damage, and vulnerability	1525809a1423d01b2daed224d6673ce753903233537dc43e53a88c7a0b02c62a	87
 manuscript/sections/ch19/19_03.tex	19.3	The route through one's own case	d67fb6dac266f87f07a6025b0a612adb96fb8c54a2f4e0d3384502c47c4e9ef2	88
@@ -106,7 +106,7 @@ manuscript/sections/ch21/21_02_01.tex	21.2.1	Self-awareness without a homunculus
 manuscript/sections/ch21/21_02_02.tex	21.2.2	What governs an agent vs. what matters to it	e51ed3f59cb56a863b017a2ab036a4650bb1a463462bdbb530ca988768ef1748	104
 manuscript/sections/ch21/21_03.tex	21.3	Three constructions	058b70f0bcd2377ed35fad79ee3bfd8b854034fe1bcd3269275b7370d90dd4b5	105
 manuscript/sections/ch21/21_04.tex	21.4	What the mechanism requires	c069a726a6525936d7877b887cff5e417591f03ad95efe6d8e4df2ab685362d8	106
-manuscript/sections/ch21/21_05.tex	21.5	Two findings	97b727b5ece460fab2ad4f951d60fed73aade573ef48490da3809860212927e6	107
+manuscript/sections/ch21/21_05.tex	21.5	Two findings	3612857fa55f273bec82424d139169035fac1868cb62ff18a93a20f64961983b	107
 manuscript/sections/ch22/22.tex	22	The Discount and the Burden	a913a6609ad04471dec75d8d0a7c9e3c52ce91a4642d2441eee3c28ce3000afe	108
 manuscript/sections/ch22/22_01.tex	22.1	What the property is	72225e9d3e61ed3a20e8323a78058de8ed5466f2700e22bce5c18665f59574d4	109
 manuscript/sections/ch22/22_02.tex	22.2	A severity scale	6f0f3f7eaa8e9cceac17568e58fd88426c274f67937fb6fb0d9b89eeb1b41fcd	110
@@ -120,7 +120,7 @@ manuscript/sections/ch24/24_01.tex	24.1	What formation would have to add	4ebb678
 manuscript/sections/ch24/24_02.tex	24.2	Recognition, welfare as a reason, and the evidence between them	caf1e34ad2882e098f6f83c56e251271d79f1beb1a2cfee216a00209f1f7ef3f	118
 manuscript/sections/ch24/24_03.tex	24.3	Conflict as a diagnostic	b61399d5af5cd9b641a7efaa77f5e8d8818633ed9d6a19fd895de29edcc4cb28	119
 manuscript/sections/ch24/24_04.tex	24.4	The evaluator is part of the custody chain	bdb0f2d5c38d7a2223c67af98cc2de8c56eedef72c851da561be5249ab8f1a6e	120
-manuscript/sections/ch24/24_05.tex	24.5	What the evidence can establish	00a0328a3dbe7f33f950b9fb0b7f4542064216e6ffc46a70ff08d8034c58ed96	121
+manuscript/sections/ch24/24_05.tex	24.5	What the evidence can establish	208c9fa120ad5103b96a8c61a6e99865dcd4267e1cbb58081232efe93278f6fa	121
 manuscript/sections/ch25/25.tex	25	Conditions First	bede2a0311eb59830151dea7b64472443cc3b0810ae5ab1543b734274b522a53	122
 manuscript/sections/ch26/00_part_V.tex			da77ce2114b4f314313c68356d38c5e1ef4a448a8413d16d5f1cd5e9bc6bd28b	123
 manuscript/sections/ch26/26.tex	26	Who Owns the Means of Computation	133752167dd8b6e1bd13698b69ecca4ffc3b50d3261bafcfb4cd73a04c6945f2	124
