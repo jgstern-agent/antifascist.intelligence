@@ -321,6 +321,15 @@ def render(path, nums, root, labels):
     sections, and prefixing only the first left those three unnumbered.
     """
     text = open(os.path.join(root, path), encoding="utf-8").read()
+    # A part epigraph (\partepigraph{...}, which the preamble sets on the part's
+    # title page) is a quote under the part heading, which in Markdown is
+    # what a quote environment already renders as.
+    while "\\partepigraph{" in text:
+        start = text.index("\\partepigraph{")
+        end = _matching_brace(text, start)
+        body = text[text.index("{", start) + 1:end - 1].strip("\n")
+        text = (text[:start] + "\\begin{quote}\n" + body + "\n\\end{quote}"
+                + text[end:])
     lines = join_split_args(text).split("\n")
     out, i, stack = [], 0, []
     heads = list(nums)

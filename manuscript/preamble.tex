@@ -152,6 +152,20 @@
 \newcommand{\unnumberedlabel}[2]{\begingroup\def\@currentlabel{#2}\label{#1}\endgroup}
 \makeatother
 
+% A part epigraph sits on the part's title page, under the title. book.cls
+% ends \part with \newpage, so a quote placed after it lands alone on the next
+% page. When \partepigraph{...} immediately follows \part{...} (no blank line
+% between), \@endpart takes it and sets it before the page break. Used
+% anywhere else, or by an engine that doesn't run \@endpart (tex4ht), it
+% prints as an ordinary quote, so the text is never lost.
+\makeatletter
+\newcommand{\partepigraph}[1]{\begin{quote}#1\end{quote}}
+\let\af@endpart\@endpart
+\long\def\af@partepigraph\partepigraph#1{%
+  \vskip 3em{\normalsize\normalfont\begin{quote}#1\end{quote}}\af@endpart}
+\def\@endpart{\@ifnextchar\partepigraph{\af@partepigraph}{\af@endpart}}
+\makeatother
+
 % \chapter* also sets no running mark, so the head left standing by the last
 % numbered chapter persists over the back matter -- every page of the glossary
 % read "CHAPTER 12. CONCLUSION AND OUTLOOK" (Q-055). Called once per starred
