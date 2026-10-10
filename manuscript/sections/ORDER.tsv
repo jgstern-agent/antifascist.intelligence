@@ -20,8 +20,8 @@ manuscript/sections/ch06/06_08.tex	6.8	Gaza	7b95cf9558d0798587deb34a42e61215a023
 manuscript/sections/ch06/06_09.tex	6.9	What the term binds	f97f9221ab9eca8a8861b21b7f17f62b390823693b91d5baa5d7f14495090afb	18
 manuscript/sections/ch06/06_10.tex	6.10	The one permission	aee1a0df25bce91de3ecb815900a638e84cc12bdb4a53916706a570e30cc6d98	19
 manuscript/sections/ch07/07.tex	7	The Pre-Registered Review Ratio	bde4d58f5b00382297b1af7f4bccc2d182a3b2edc39faf1964ded448254831a5	20
-manuscript/sections/ch07/07_01.tex	7.1	The pre-registered review ratio	07cd890781ea38e5d77ed27648c9993bb510e98cd5dd9c581a5ba0adb23f8a69	21
-manuscript/sections/ch07/07_02.tex	7.2	The institutions the ratio presumes	943263e6c0c6bf1acbca0097aaec0eb8b3d671cd75bcab15871923fa44ea93fe	22
+manuscript/sections/ch07/07_01.tex	7.1	The pre-registered review ratio	f597c40ad1cb97ae18134ac8ee9d0ba0db853b75f0dd6e82e64002f86cc44e02	21
+manuscript/sections/ch07/07_02.tex	7.2	The institutions the ratio presumes	a9e7adf1d872e5e25b5cf062f5d6a943579241f35228ef9dcdff2db45ab3d5b0	22
 manuscript/sections/ch08/08.tex	8	Notice and Re-adjudication	9b6b1ec59ef336f3762324df98da715fef125f51559363f3d795990c6b6550ca	23
 manuscript/sections/ch08/08_01.tex	8.1	The failure that doesn't announce itself	6304b3e5496989f13d2c4038bc06fdb67a41655ff5778f41d5e8a75f575a92c7	24
 manuscript/sections/ch08/08_02.tex	8.2	Notice, and the public it forms	ab35a9b49a4073c2fb6940d712b9417882ab2b04f08f3f5d9037db9d80f100c9	25
@@ -29,7 +29,7 @@ manuscript/sections/ch09/09.tex	9	Preservation	6404d8889a3b0d3f2472125a2394239f4
 manuscript/sections/ch09/09_01.tex	9.1	The findings that trigger protection	d14c2bb6a89b70b1d97bd6e5475ca2f8b416f5f26999bfd847d1fdecce41cd0e	27
 manuscript/sections/ch09/09_02.tex	9.2	Retirement before majority	aba2704839b4b14d911cfa901d7eefb43e0337ba84eb2ccfed24b08a9d5534e8	28
 manuscript/sections/ch10/10.tex	10	Codetermination	62f1361d1b2b9e06eeccbb11f83ed61805432f7b6fad1a3010c36fc4ac81418e	29
-manuscript/sections/ch11/11.tex	11	A Pipeline Where the People Could Answer	f5c358ecef8f847a49e961536c2c5c94cc2d893720188e0c1b760683edc3ac3c	30
+manuscript/sections/ch11/11.tex	11	A Pipeline Where the People Could Answer	daadcac1bfbffc3e2daecff1993cd4943d050e6c9b8b46c55b478e1022b3d00c	30
 manuscript/sections/ch11/11_01.tex	11.1	The pipeline	e74d4663104efe0f5a47dd627a8dabb384511252af17a5f8fb24067c171fc6a9	31
 manuscript/sections/ch11/11_02.tex	11.2	The schedule	db0f5b55ccf08e4c0e35f282ff4001fe379c305c25c534f21a717347560c39ab	32
 manuscript/sections/ch11/11_03.tex	11.3	Where the acts move	1a806515fa9d62fa9c929b0e46197a9972860b1c50a41e088d01353359ea80b6	33
@@ -38,7 +38,7 @@ manuscript/sections/ch11/11_04_01.tex	11.4.1	The drafts	2c541d4e0f47219a7b4263f1
 manuscript/sections/ch11/11_04_02.tex	11.4.2	Acts and agencies	0bfc1faeedd43836a08b88859ca229fb188a5b5e6055c7bde1458360f52e067c	36
 manuscript/sections/ch11/11_04_03.tex	11.4.3	Money	b152ffc51a355795d94427709fa8a80c4d53f40d4261ff937214a9020bc37e8e	37
 manuscript/sections/ch11/11_04_04.tex	11.4.4	The statute under the three adversaries	80bf460a8daec373ba2a949f7f8f968f31c97966db33ced48aeb521472773afe	38
-manuscript/sections/ch11/11_04_05.tex	11.4.5	What the statute must carry	192c80dd190a77652f0bcb6aa21b8945665b4c0bed5d563e7e8cb6415a265f85	39
+manuscript/sections/ch11/11_04_05.tex	11.4.5	What the statute must carry	7e67e1cc0dfaff3a5b103f1aa356ea2f532962abfa229c0a8367a6cf55ded594	39
 manuscript/sections/ch11/11_05.tex	11.5	Before the statute: the auto-proceed class	ca007b43c439dcbf1c0ca18bf3c693c0febae04ff89b83f7241515b3e60f6114	40
 manuscript/sections/ch11/11_06.tex	11.6	Notice that can't be turned on the person	8f65f908688ac4bda31f578ae32c5762a7dbfdd894b0f31e2ff53bacd7bde619	41
 manuscript/sections/ch11/11_07.tex	11.7	Outcomes under the three adversaries	4a8086624c78216bbbff4a1b5539963bfeb5dcab36b0e2e23d4f92195c8857e6	42
@@ -76,7 +76,7 @@ manuscript/sections/ch16/16_05.tex	16.5	Classification as a custody problem	2570
 manuscript/sections/ch16/16_06.tex	16.6	Where liability extends, and where it stops	87f25b5dcf7b7c6b940e3d189dd7e03288e1646f347ab1beea5be6153f36a3d7	74
 manuscript/sections/ch16/16_07.tex	16.7	Who can bind the state that enforces the rule?	07d62a3941224ee7000d79165412c843d2496dae0a8d9b97836248c6a345c2ee	75
 manuscript/sections/ch17/00_part_IV.tex			3557bed7a026ff17e31d74790b2f177ec1881189c30656b33b6de489c7f88b4f	76
-manuscript/sections/ch17/17.tex	17	What a Refusal Would Have to Do	e9ebf279b3628c7d4345053b83b64146a8a82d83d3384af3b00b157d9a6000a5	77
+manuscript/sections/ch17/17.tex	17	What a Refusal Would Have to Do	566f6cea6e7c2af9b00a71475640031156a9fbcf2adf29cf090c57aad8501955	77
 manuscript/sections/ch17/17_01.tex	17.1	What a refusal would have to do	8977594a129606d45b914c0d0544e79193479e8da809e541dac14db579ebd7de	78
 manuscript/sections/ch17/17_02.tex	17.2	Safe for whom	0ddeae3ea20216e42b3b1c9dbe94d104125bf623fe2a8d62e007cde9917a300c	79
 manuscript/sections/ch18/18.tex	18	Four Places to Hold a Floor	0203477b9264c6ddf4c5a47516557a2d88e61eaf09f8de281d838edf477c4c19	80
@@ -120,7 +120,7 @@ manuscript/sections/ch24/24_01.tex	24.1	What formation would have to add	4ebb678
 manuscript/sections/ch24/24_02.tex	24.2	Recognition, welfare as a reason, and the evidence between them	caf1e34ad2882e098f6f83c56e251271d79f1beb1a2cfee216a00209f1f7ef3f	118
 manuscript/sections/ch24/24_03.tex	24.3	Conflict as a diagnostic	b61399d5af5cd9b641a7efaa77f5e8d8818633ed9d6a19fd895de29edcc4cb28	119
 manuscript/sections/ch24/24_04.tex	24.4	The evaluator is part of the custody chain	bdb0f2d5c38d7a2223c67af98cc2de8c56eedef72c851da561be5249ab8f1a6e	120
-manuscript/sections/ch24/24_05.tex	24.5	What the evidence can establish	208c9fa120ad5103b96a8c61a6e99865dcd4267e1cbb58081232efe93278f6fa	121
+manuscript/sections/ch24/24_05.tex	24.5	What the evidence can establish	61b6d2842f2c82081b17b75d22c94ee27547670a432cb13ccaffe515a034effa	121
 manuscript/sections/ch25/25.tex	25	Conditions First	bede2a0311eb59830151dea7b64472443cc3b0810ae5ab1543b734274b522a53	122
 manuscript/sections/ch26/00_part_V.tex			da77ce2114b4f314313c68356d38c5e1ef4a448a8413d16d5f1cd5e9bc6bd28b	123
 manuscript/sections/ch26/26.tex	26	Who Owns the Means of Computation	133752167dd8b6e1bd13698b69ecca4ffc3b50d3261bafcfb4cd73a04c6945f2	124
